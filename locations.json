@@ -1,0 +1,32 @@
+[
+  {
+    "name": "New York City",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "description": "Main office location"
+  },
+  {
+    "name": "Los Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "description": "West coast hub"
+  },
+  {
+    "name": "Chicago",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "description": "Midwest regional office"
+  },
+  {
+    "name": "Houston",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "description": "Southern headquarters"
+  },
+  {
+    "name": "Phoenix",
+    "lat": 33.4484,
+    "lng": -112.0740,
+    "description": "Southwest location"
+  }
+]
